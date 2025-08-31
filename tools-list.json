@@ -14,19 +14,6 @@
                 {
                     "name": "PDF Page Organizer / Reorder",
                     "link": "/tools/pdf-tools/organize-pdf"
-                },
-                {
-                    "name": "Convert From PDF",
-                    "tools": [
-                        {
-                            "name": "PDF To Image (JPG/JPEG)",
-                            "link": "/tools/pdf-tools/pdf-to-jpg"
-                        },
-                        {
-                            "name": "PDF To Image (PNG)",
-                            "link": "/tools/pdf-tools/pdf-to-png"
-                        }
-                    ]
                 }
             ]
         },
@@ -91,6 +78,7 @@
     ]
 
 }
+
 
 
 
