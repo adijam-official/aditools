@@ -1,7 +1,7 @@
 {
     "AdiTools": [
         {
-            "name": "PDF Temp Aditya Tools Jamge",
+            "name": "PDF Tools",
             "tools": [
                 {
                     "name": "PDF Merger",
@@ -91,6 +91,7 @@
     ]
 
 }
+
 
 
 
