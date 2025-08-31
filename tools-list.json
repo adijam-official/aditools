@@ -1,0 +1,92 @@
+{
+    "AdiTools": [
+        {
+            "name": "PDF Tools",
+            "tools": [
+                {
+                    "name": "PDF Merger",
+                    "link": "/tools/pdf-tools/merge-pdf"
+                },
+                {
+                    "name": "PDF Pages Remover",
+                    "link": "/tools/pdf-tools/remove-pages"
+                },
+                {
+                    "name": "PDF Page Organizer / Reorder",
+                    "link": "/tools/pdf-tools/organize-pdf"
+                },
+                {
+                    "name": "Convert From PDF",
+                    "tools": [
+                        {
+                            "name": "PDF To Image (JPG/JPEG)",
+                            "link": "/tools/pdf-tools/pdf-to-jpg"
+                        },
+                        {
+                            "name": "PDF To Image (PNG)",
+                            "link": "/tools/pdf-tools/pdf-to-png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Image Tools",
+            "tools": [
+                {
+                    "name": "Convert From Image To Image",
+                    "tools": [
+                        {
+                            "name": "JPG To PNG",
+                            "link": "/tools/image-tools/jpg-to-png"
+                        },
+                        {
+                            "name": "JPEG To PNG",
+                            "link": "/tools/image-tools/jpeg-to-png"
+                        },
+                        {
+                            "name": "PNG To JPG",
+                            "link": "/tools/image-tools/png-to-jpg"
+                        },
+                        {
+                            "name": "PNG To JPEG",
+                            "link": "/tools/image-tools/png-to-jpeg"
+                        },
+                        {
+                            "name": "WebP To PNG",
+                            "link": "/tools/image-tools/webp-to-png"
+                        },
+                        {
+                            "name": "WebP To JPG",
+                            "link": "/tools/image-tools/webp-to-jpg"
+                        },
+                        {
+                            "name": "PNG To WebP",
+                            "link": "/tools/image-tools/png-to-webp"
+                        },
+                        {
+                            "name": "JPG To WebP",
+                            "link": "/tools/image-tools/jpg-to-webp"
+                        },
+                        {
+                            "name": "Any Image To PNG",
+                            "link": "/tools/image-tools/image-to-png"
+                        },
+                        {
+                            "name": "Any Image To JPG",
+                            "link": "/tools/image-tools/image-to-jpg"
+                        },
+                        {
+                            "name": "GIF To PNG",
+                            "link": "/tools/image-tools/gif-to-png"
+                        },
+                        {
+                            "name": "BMP To PNG",
+                            "link": "/tools/image-tools/bmp-to-png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
